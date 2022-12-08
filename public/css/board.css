@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+body{
+    margin: 0;
+    background-color: black;
+    font-family: 'Nanum Barun Gothic';
+}
+
+.image{
+    margin-left: 40px;
+}
+
+#led {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+    font-weight: 500;
+    font-size: 250px;
+    color: rgb(255, 255, 255);
+    letter-spacing:-20px
+}
+
+#header {
+    width : 100%;
+    height : 50px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom : 5px;
+}
+
+#box {
+    margin-left: 500px;
+}
+
+#container{
+    width: 400px;
+    height: 800px;
+    margin-left: 50px;
+}
+
+#clock{
+    font-size: 70px;
+}
+
+#img{
+    margin-top: 50px;
+}
+
+#color{
+    color: rgb(255, 49, 49);
+}
